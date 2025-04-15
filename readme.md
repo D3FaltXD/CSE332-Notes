@@ -47,4 +47,4 @@
 <br>
 
 
-![Banner](logo2.png)
+![logo2](logo2.png)
