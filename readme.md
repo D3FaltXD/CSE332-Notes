@@ -19,7 +19,6 @@
 
 <br>
 
-
 # About the Project
 
 **Spirit Blossom Notes** is a beautifully designed repository for CSE332 lecture notes, inspired by the enchanting Spirit Blossom theme. This project combines functionality with aesthetics, offering a visually appealing and organized way to access lecture materials.
@@ -38,7 +37,7 @@
 - **CloudFlare**: For Custom domain
 
 ### How to Use
-1. Visit the [ethics-notes](https://ethics-notes.pages.dev) or [ethics-notes](https://d3faltxd.github.io/CSE332-Notes/) to access the notes.
+1. Visit the [ethics-notes](https://ethics-notes.pages.dev) or [Github Pages](https://d3faltxd.github.io/CSE332-Notes/) to access the notes.
 2. Click on any lecture link to view or download the corresponding PDF.
 3. Share the project link on social media to showcase the Spirit Blossom theme.
 <br>
