@@ -19,7 +19,6 @@
 
 <br>
 
-
 # About the Project
 
 **Spirit Blossom Notes** is a beautifully designed repository for CSE332 lecture notes, inspired by the enchanting Spirit Blossom theme. This project combines functionality with aesthetics, offering a visually appealing and organized way to access lecture materials.
