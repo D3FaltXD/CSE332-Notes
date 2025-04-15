@@ -40,7 +40,9 @@
 3. Share the project link on social media to showcase the Spirit Blossom theme.
 <br>
 <br>
+
 ---
+
 <div style="text-align: center;">
     <img src="logo2.png" alt="Spirit Blossom" height="200">
 </div>
