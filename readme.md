@@ -1,5 +1,8 @@
 ![Banner](embed.png)
 ---
+
+<br>
+
 <blockquote style="text-align: center;">
     
     In twilight’s glow, the spirits rise,  
@@ -15,7 +18,7 @@
 </blockquote>
 
 <br>
-<br>
+
 
 # About the Project
 
@@ -39,10 +42,9 @@
 2. Click on any lecture link to view or download the corresponding PDF.
 3. Share the project link on social media to showcase the Spirit Blossom theme.
 <br>
-<br>
 
 ---
+<br>
 
-<div style="text-align: center;">
-    <img src="logo2.png" alt="Spirit Blossom" height="200">
-</div>
+
+![Banner](logo2.png)
